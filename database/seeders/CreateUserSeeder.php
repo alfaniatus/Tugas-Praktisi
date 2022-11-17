@@ -6,7 +6,7 @@ use Carbon\Carbon;
 use App\Models\User;
 use Illuminate\Database\Seeder;
 
-class CreteUsersSeeder extends Seeder
+class CreateUsersSeeder extends Seeder
 {
     /**
      * Run the database seeds.

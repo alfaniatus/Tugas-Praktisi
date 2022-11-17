@@ -5,10 +5,10 @@
         <div class="container" style="border-radius: 20px;">
             <div class="row my-5">
                 <div class="col-md-6 mt-md-0 mt-4">
-                    <p> Selamat! kamu telah menjadi member RaaStore <br> Berikut Kartu membermu :</p>
+                    <p> Selamat! kamu telah menjadi member baru Moto GP<br> Berikut Kartu membermu :</p>
                     <div class="card">
                         <div class="card-header d-flex justify-content-start">
-                            <img src="{{ asset('assets/images/ori/buk.jpg') }}" class="img-fluid" width="30">
+                            <img src="{{ asset('assets/images/ori/motogp1.png') }}" class="img-fluid" width="30">
                             <p class="mb-0 ms-3 d-flex align-items-center" style="letter-spacing: 1px">
                                 KARTU MEMBER
                             </p>

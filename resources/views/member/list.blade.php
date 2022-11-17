@@ -5,7 +5,7 @@
         <div class="container my-5">
             <div class="row">
                 <div class="col-md-12">
-                    <a href="" class="btn btn-outline-warning mb-4">Kembali ke halaman sebelumnya</a>
+                    <a href="" class="btn btn-outline-dark mb-4">Kembali ke halaman sebelumnya</a>
 
                     <div class="card">
                         <div class="card-body">

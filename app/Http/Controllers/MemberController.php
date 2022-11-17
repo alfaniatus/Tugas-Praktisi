@@ -22,7 +22,7 @@ class MemberController extends Controller
     public function list()
     {
         //$users = User::all();
-        $users = DB::table('users')->get();
+        $users = DB::table("users")->get();
 
         //dd($users);
         return view("member/list", [

@@ -6,8 +6,8 @@
         <div class="row my-5">
             <div class="col-md-6 d-flex align-items-center">
                 <div>
-                    <h2>Selamat Datang di<br><b>RaaStore</b></h2>
-                    <p class="text-secondary">Tempat membaca, menyewa dan membeli buku<br>Jangan ngaku pencinta buku kalo belum jadi member</p>
+                    <h2>Selamat Datang di<br><b>MotoGP</b></h2>
+                    <p class="text-secondary">Selamat Datang di Ajang Bergengsi Tahunan<br>Raih Peluangmu Untuk Menyabet Gelar Juara Dunia Moto GP tahun ini!</p>
 
                     <a href="{{ url("user/register") }}" class="btn btn-primary"><b>Daftar Sekarang!</b></a>
                 </div>
@@ -24,13 +24,13 @@
                     </div>
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="{{ asset("assets/images/ori/buk1.jpg") }}" class="d-block w-100">
+                            <img src="{{ asset("assets/images/ori/motogp1.png") }}" class="d-block w-100">
                         </div>
                         <div class="carousel-item">
-                            <img src="{{ asset("assets/images/ori/buk2.jpg") }}" class="d-block w-100">
+                            <img src="{{ asset("assets/images/ori/motogp2.jpg") }}" class="d-block w-100">
                         </div>
                         <div class="carousel-item">
-                            <img src="{{ asset("assets/images/ori/buk3.jpg") }}" class="d-block w-100">
+                            <img src="{{ asset("assets/images/ori/motogp3.jpg") }}" class="d-block w-100">
                         </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions"

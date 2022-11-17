@@ -8,7 +8,7 @@
                     <div class="card bg-light border-primary" style="border-radius: 20px">
                         <div class="card-body">
                             <div class="text-center mb-4">
-                                <img src="{{ asset('assets/images/ori/buk.jpg') }}" class="img-fluid mb-2" width="100">
+                                <img src="{{ asset('assets/images/ori/motogp1.png') }}" class="img-fluid mb-2" width="100">
                                 <h4 class="text-center">Pendaftaran Member</h4>
                             </div>
 
